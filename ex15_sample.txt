@@ -1,0 +1,3 @@
+This is ex15. The Reading Files exercise.
+If the code works, you should be able to read this.
+Or else an error would show instead.
